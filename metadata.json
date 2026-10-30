@@ -1,0 +1,6 @@
+{
+  "name": "Valencia Case Lab - Emdash Theme",
+  "description": "Tema Emdash para Valencia Case Lab: personalización experta de fundas para móvil y tablet en Valencia, con live case builder, artesanía local y sistema de diseño vibrante.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
